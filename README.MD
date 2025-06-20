@@ -56,12 +56,7 @@ To develop a **Visual Medical Assistant** web application that:
 
 ---
 
-## 🛠️ Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/visual-medical-assistant.git
-   cd visual-medical-assistant
+ 
 
 
  
